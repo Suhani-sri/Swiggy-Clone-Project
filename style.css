@@ -165,11 +165,12 @@ a.img-anchor {
 .footer {
     background-color: black;
     padding: 0 20px;
-    min-height: 300px;
+    /* min-height: 300px; */
     position: relative;
     z-index: 10;
     color: white;
-    overflow: scroll;
+    /* overflow: scroll; */
+    
 }
 .complete-parent {
     position: relative;
@@ -215,7 +216,7 @@ li.first a{
     color: white;
 }
 li.first a:hover{
-    font-size: 18px;
+   font-size: 16px;
 }
 .secondlogo {
     margin-top: 30px;
